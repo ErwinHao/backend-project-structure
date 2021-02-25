@@ -1,0 +1,3 @@
+Ini folder default keluaran sequelize-cli.
+
+Kalau mau pake seeders bisa dari sini.

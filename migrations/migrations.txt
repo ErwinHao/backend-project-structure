@@ -1,0 +1,3 @@
+Folder migrations ini auto-generated dari sequelize-cli.
+
+Kalau mau ubah kolom table bisa disini.

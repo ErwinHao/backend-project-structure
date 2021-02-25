@@ -1,0 +1,3 @@
+Di folder middlewares ini berisikan perantara yang disisipkan antara request client dengan server.
+
+Contohnya kita mau masuk ke endpoint /user-profile, namun seharusnya endpoint itu diproteksi. Maka kita tambahkan middleware isAuth atau restrict mungkin untuk mengecek apakah user tersebut sudah login atau nga, atau dia berhak nga untuk mengakses endpoint itu.

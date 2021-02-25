@@ -1,0 +1,3 @@
+Pada folder helpers, berisikan function yang bakal sering digunakan, atau mungkin ingin dipisahkan dari controller. Contohnya kan generateTokens.js tugasnya adalah untuk generate sebuah token, terpisah dari tugas login yang hanya ingin handle login, makanya disini dipisah.
+
+NOTE: INI OPSIONAL. Mungkin lebih suka bikin function di controller nya langsung atau malah lebih suka ngulang-ngulang (hehe, tenang, kamu tidak sendiri), ga usah pikir pusing bikin di helpers ini pun tidak masalah.

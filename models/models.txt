@@ -1,0 +1,4 @@
+Folder models ini auto-generated dari sequelize-cli.
+Disini aku ada define association di method static associate masing-masing model.
+
+Mungkin untuk mas Ilham sama mas Andi bakal berguna ya soalnya di kelas mas Frey ga diajari gimana bikin asosiasi satu model dengan model yang lain.

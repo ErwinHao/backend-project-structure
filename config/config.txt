@@ -1,0 +1,1 @@
+Folder config berisikan konfigurasi-konfigurasi terkait library luar yang di install. Contohnya nih ada install package passport, maka konfigurasinya dibikin disini.

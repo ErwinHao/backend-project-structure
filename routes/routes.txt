@@ -1,0 +1,7 @@
+Folder routes ini berisikan rute endpoint yang membawa request client ke handler.
+
+Bisa juga ditambahkan middleware mungkin untuk handle validasi data sebelum masuk ke request handler.
+
+router.post('/register', registerValidator, register); contohnya,
+
+registerValidator akan melakukan validasi pada data kiriman dari client terlebih dahulu sebelum mengirim ke handler register.

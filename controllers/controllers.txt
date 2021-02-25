@@ -1,0 +1,1 @@
+Folder controllers berisikan handler untuk masing-masing endpoints. Contohnya ada rute yang menuju ke /class, maka kita buat classController.js untuk handle masing-masing requestny, apakah get, post, put, atau delete.
